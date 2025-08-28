@@ -2,3 +2,4 @@ ligne1
 ligne2
 feature1 ligne1
 feature1 ligne2
+feature2 ligne1
